@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 심심이주식회사 SimSimi Inc.
+title: Sensor Brain
 email: support@simsimi.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  심심이주식회사 회사소개 페이지
+  Sensor Brain 소개 페이지
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -31,6 +31,7 @@ github_username: simsimi
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

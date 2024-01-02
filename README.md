@@ -1,2 +1,2 @@
-# simsimi.github.io
+# sensorbrain.github.io
 About SimSimi Inc.
