@@ -10,6 +10,3 @@ layout: home
 
 - [문서](https://docs.lamp.digital)
 - [LICENSE](https://github.com/BIDMCDigitalPsychiatry/LAMP-platform/blob/master/LICENSE.md)
-
-- [개인정보 처리방침](https://dpheno.simsimi.com/privacy_policy.html)
-- [서비스 이용약관](https://dpheno.simsimi.com/terms_of_service.html)
